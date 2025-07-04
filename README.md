@@ -1,4 +1,4 @@
-# Notebooks de Introdução à Linguagem Python para Ciência de Dados – 1ª Edição
+# Notebooks do livro "Introdução à Linguagem Python para Ciência de Dados – 1ª Edição"
 
 Este projeto tem como objetivo ensinar os fundamentos da **Linguagem Python para Ciência de Dados**. Ele contém os códigos de exemplos e as soluções dos exercícios da primeira edição do livro:  
 [Introdução à Linguagem Python para Ciência de Dados (1ª Edição)](https://homl.info/er3)
