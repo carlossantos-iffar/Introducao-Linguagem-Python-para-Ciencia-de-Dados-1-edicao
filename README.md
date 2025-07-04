@@ -5,7 +5,7 @@ Este projeto tem como objetivo ensinar os fundamentos da **Linguagem Python para
 
 Abaixo está a capa do livro:
 
-<img src="https://drive.google.com/uc?export=view&id=1STTOH9uV6CbtGBR553gPAAcdpNGVaynq" alt="Capa do livro" width="150"/>
+<img src="https://drive.google.com/uc?export=view&id=1STTOH9uV6CbtGBR553gPAAcdpNGVaynq" alt="Capa do livro" width="180"/>
 
 ---
 
