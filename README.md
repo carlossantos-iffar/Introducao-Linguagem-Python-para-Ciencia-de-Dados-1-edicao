@@ -3,7 +3,7 @@
 Este projeto tem como objetivo ensinar os fundamentos da **Linguagem Python para Ciência de Dados**. Ele contém os códigos de exemplos e as soluções dos exercícios da primeira edição do livro:  
 [Introdução à Linguagem Python para Ciência de Dados (1ª Edição)](https://homl.info/er3)
 
-![Capa do livro](https://learning.oreilly.com/library/cover/9781098125967/300w/)
+![Capa do livro](https://drive.google.com/file/d/1STTOH9uV6CbtGBR553gPAAcdpNGVaynq/view?usp=sharing)
 
 ---
 
