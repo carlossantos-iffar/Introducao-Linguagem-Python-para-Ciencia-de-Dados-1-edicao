@@ -13,7 +13,7 @@ Este projeto tem como objetivo ensinar os fundamentos da **Linguagem Python para
 
 Clique para abrir no Google Colab:
 
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carlossantos-iffar/Introducao-Linguagem-Python-para-Ciencia-de-Dados-1-edicao/)
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carlossantos-iffar/Introducao-Linguagem-Python-para-Ciencia-de-Dados-1-edicao/main)
 
 ⚠️ *Atenção: o ambiente do Colab é temporário. Qualquer dado salvo será perdido após um tempo. Baixe os arquivos importantes!*
 
